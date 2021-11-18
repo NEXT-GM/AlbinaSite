@@ -1,6 +1,6 @@
 <template>
 <div>
-    Hello
+    
 </div>
 </template>
 
@@ -11,5 +11,7 @@ export default {
 </script>
 
 <style>
-
+.template{
+    background: linear-gradient();
+} 
 </style>
